@@ -1,7 +1,7 @@
 /*
 Caleb Hemmestad
 Data Structures
-Due : Jan 18 2022
+Due : Jan 24 2022
 
 Discription :
 Create a student class that will store important information about a student. As a part of
